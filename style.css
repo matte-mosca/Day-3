@@ -1,0 +1,30 @@
+
+
+header {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo {
+   text-align: center;
+   
+}
+#logo img {
+    width: 50%;
+}
+
+header h4{
+   text-align: center;
+}
+
+body{
+    width: 50%;
+    margin: 0 auto;
+}
+
+#focaccia figcaption{
+    text-align: center;
+}
+
+#focaccia img {border-radius: 10px 10px 10px 10px;}
